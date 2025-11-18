@@ -1,7 +1,7 @@
 ---
 title: "Rereview Arabic"
 date: 2025-11-18T07:10:51+07:00
-draft: true
+draft: false
 tags:
     - Language
     - Arabic

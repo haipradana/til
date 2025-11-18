@@ -4,6 +4,7 @@ date: 2025-11-13T05:35:59+07:00
 draft: false
 tags:
     - Language
+    - German
 
 # Author
 language: de
