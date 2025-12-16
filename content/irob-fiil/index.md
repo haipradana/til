@@ -20,4 +20,4 @@ language: ar
 
 ## Mudhof & Mudhof ilaih
 
-![tsulatsi](./tsulatsi.png)
+![mudof](./mudof.jpeg)
