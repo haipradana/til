@@ -1,7 +1,7 @@
 ---
 title: "1927 Solvay Conference"
 date: 2025-12-21T05:41:30+07:00
-draft: true
+draft: false
 tags:
     - History
     - Physics
