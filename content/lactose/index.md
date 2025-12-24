@@ -3,8 +3,8 @@ title: "Lactose Intolerance"
 date: 2025-12-23T21:09:57+07:00
 draft: false
 tags:
-    - biology
-    - nutrition
+    - Biology
+    - Nutrition
 
 # Author
 language: en
