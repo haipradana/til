@@ -31,7 +31,7 @@ canonifyURLs = true
   author = "Pradana Yahya"
   faviconURL = "/favicon.svg"
   og_image = "/images/author/dana.jpg"
-  sitename = "Today I Learned - pradanayahya"
+  sitename = "Today I Learned - Pradana Yahya"
   home_show_tags = true
 
 [languages]
