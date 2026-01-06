@@ -13,6 +13,8 @@ THI atau Temperature Humidity Index menjadi salah satu parameter dalam mengukur 
 
 Sebenarnya setiap negara memiliki rumus atau cara perhitungan yang berbeda, terutama daerah subtropis dengan daerah tropis.
 
+![heat index NOAA NWS](./heat-index-NOAA.png)
+
 Hari ini sudah belajar dua metode, di antaranya metode perhitungan Heat Index versi NWS (National Weather Service) dari Pemerintah Amerika Serikat dan perhitungan versi tropis dengan persamaan **Nieuwolt** yang cocok dengan Indonesia. 
 
 Kedua rumus tersebut sama-sama menggunakan temperatur (suhu) dan kelembaban. Namun, pada rumus versi NWS Pemerintah AS menggunakan perhitungan konstanta yang sudah didefinisikan sebelumnya. Sedangkan rumus persamaan Niewolt juga menggunakan konstanta namun lebih jelas dan lebih cocok untuk iklim di Indonesia.
