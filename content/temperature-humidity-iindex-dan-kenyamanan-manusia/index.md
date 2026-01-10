@@ -1,5 +1,5 @@
 ---
-title: "Temperature Humidity Index Dan Kenyamanan Manusia"
+title: "Temperature Humidity Index dan Kenyamanan Manusia"
 date: 2026-01-06T22:16:53+07:00
 draft: false
 tags:
