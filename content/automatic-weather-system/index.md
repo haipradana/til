@@ -1,5 +1,5 @@
 ---
-title: "Automatic Weather System"
+title: "Automatic Weather Station"
 date: 2026-01-02T23:44:22+07:00
 draft: false
 tags:
